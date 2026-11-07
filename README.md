@@ -79,11 +79,17 @@ SymPyを利用した記号数学・数式処理機能です。
 
 ![数式計算機](docs/images/calculator.png)
 
-### 環境設定
+### 設定画面
 
-壁紙、背景の暗さ、ぼかし効果などを自由にカスタマイズできます。
+#### 一般設定
+API Keyや使用するAIモデルなどを設定できます。
 
-![環境設定](docs/images/settings.png)
+![一般設定](docs/images/settings-general.png)
+
+#### テーマ・壁紙設定
+アプリのテーマや背景画像、暗さ・ぼかしなどをカスタマイズできます。
+
+![テーマ・壁紙設定](docs/images/settings-theme.png)
 
 ---
 
