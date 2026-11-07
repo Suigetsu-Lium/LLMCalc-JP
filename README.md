@@ -87,10 +87,17 @@ API Keyや使用するAIモデルなどを設定できます。
 ![一般設定](docs/images/settings-general.png)
 
 #### テーマ・壁紙設定
-アプリのテーマや背景画像、暗さ・ぼかしなどをカスタマイズできます。
 
-![テーマ・壁紙設定](docs/images/settings-theme.png)
+アプリのテーマや壁紙を変更できます。
+背景画像の暗さやぼかしなども調整でき、好みに合わせて外観をカスタマイズできます。
 
+**変更前**
+
+![テーマ変更前](docs/images/settings-theme.png)
+
+**変更後**
+
+![テーマ変更後](docs/images/theme1.png)
 ---
 
 ## 主な機能
