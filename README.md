@@ -298,14 +298,32 @@ LLMの推論にはGroq APIを使用します。
 
 ## 動作環境
 
-**必要な環境**
+### 動作確認済み環境
+
+- Windows 11
+
+### 動作確認予定・検証可能な環境
+
+- Linux Mint
+
+Linux Mintについては、開発者が実機を所有しているため、今後動作確認を行う可能性があります。
+
+### 必要な環境
 
 - Python 3
+- pywebview対応環境
 - インターネット接続
 - Groq API Key
-- Windowsなどのpywebview対応環境
 
-※OSやPythonの対応バージョンについては、今後の動作検証に応じて更新します。
+本アプリケーションはPythonとpywebviewを利用して開発されています。
+
+必要な依存関係およびWebView環境が整っていれば、その他のOSでも動作する可能性があります。
+
+ただし、Windows 11以外の環境については、現時点で動作を保証していません。
+
+### 動作確認の報告について
+
+Windows 11以外の環境で動作確認を行った場合、OS・バージョン・Pythonのバージョンなどの環境情報とともに、動作状況を報告していただけると助かります。
 
 ---
 
@@ -413,6 +431,7 @@ LLMCalc-JPは、当初、小規模なPythonデスクトップアプリケーシ�
 **Suigetsu-Lium**
 
 - GitHub: [@Suigetsu-Lium](https://github.com/Suigetsu-Lium)
+- X: [@Tritium_sub](https://x.com/Tritium_sub)
 - Repository: [LLMCalc-JP](https://github.com/Suigetsu-Lium/LLMCalc-JP)
 
 ---
